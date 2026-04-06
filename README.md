@@ -1,5 +1,5 @@
 # 💫 About Me:
-CS undergraduate | Java & Python | Learning DSA | Learning ML & Deep Learning |  Building projects 🚀
+CS undergraduate | Java & Python | Learning DSA | Learning ML , Deep Learning & Generative AI|  Building projects 🚀
 
 
 ## 🌐 Socials:
